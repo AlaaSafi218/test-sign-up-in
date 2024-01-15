@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="form">
-        <form name="form" action="connection.php" method="POST">
+        <form name="form" action="connection_up.php" method="POST">
             <span><ion-icon name="person"></ion-icon></span>
             <label>Username:</label>
             <input type="text" name="name"><br><br>
